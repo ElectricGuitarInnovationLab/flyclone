@@ -1,7 +1,5 @@
-# flyclone - Parker Fly Research Project
-http://flyclone.com
-
-the Fly Clone Project is a research effort of the Electric Guitar Innovation Lab intended to maintain and adapt parts used on original and early USMC-Parker Fly* guitars, which are no longer being made or available. ‪The Fly Clone Project began in order to address the growing and eventual need for replacement parts and services related to Parker Fly guitars including adaptations and modifications to these unique instruments;‬ the Fly Clone project will continue to exist as an independent research effort regardless of and unrelated to the official status of the Parker Guitars brand.
+# flyclone - Parker Fly Research Project http://flyclone.com
+The Fly Clone Project is a research effort of the Electric Guitar Innovation Lab intended to maintain and adapt parts used on original and early USMC-Parker Fly* guitars, which are no longer being made or available. ‪The Fly Clone Project began in order to address the growing and eventual need for replacement parts and services related to Parker Fly guitars including adaptations and modifications to these unique instruments;‬ the Fly Clone project will continue to exist as an independent research effort regardless of and unrelated to the official status of the Parker Guitars brand.
 
 Project work began in spring 2018 and will continue indefinitely as part of the ongoing research of the Electric Guitar Innovation Lab. http://electricguitarinnovationlab.org 
 
