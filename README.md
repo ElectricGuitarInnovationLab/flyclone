@@ -3,8 +3,7 @@ The Fly Clone Project is a research effort of the Electric Guitar Innovation Lab
 
 Project work began in spring 2018 and will continue indefinitely as part of the ongoing research of the Electric Guitar Innovation Lab. http://electricguitarinnovationlab.org 
 
-These models are an open community effort and released here under the following Creative Commons license: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 
-https://creativecommons.org/licenses/by-nc/4.0/deed.ia 
-The contents of this repository are in development and are made available through the aforementioned license without any warranty whatsoever. 
+# License
+These models are an open community effort and released here under the following Creative Commons license: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) https://creativecommons.org/licenses/by-nc/4.0/deed.ia The contents of this repository are in development and are made available through the aforementioned license without any warranty whatsoever.
 
 *All product and company names are trademarks or registered trademarks of their respective holders. Parker Guitars, Parker, Fly, Fly Guitar, and NiteFly are registered trademarks of U.S. Music Corp, a division of Jam Industries, LTD. Use of these marks does not imply an affiliation with U.S. Music Corp, Parker Guitars, or its parent companies and does not imply an endorsement by these companies.
